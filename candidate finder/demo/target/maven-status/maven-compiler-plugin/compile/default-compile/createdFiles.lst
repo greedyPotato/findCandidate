@@ -1,0 +1,10 @@
+com\candidatefinder\demo\service\CandidateFinderServiceImpl.class
+com\candidatefinder\demo\entity\Title.class
+com\candidatefinder\demo\repository\TitleRepository.class
+com\candidatefinder\demo\entity\Skill.class
+com\candidatefinder\demo\controller\CandidateFinderController.class
+com\candidatefinder\demo\DemoApplication.class
+com\candidatefinder\demo\entity\Job.class
+com\candidatefinder\demo\entity\Candidate.class
+com\candidatefinder\demo\repository\CandidateRepository.class
+com\candidatefinder\demo\service\CandidateFinderService.class
